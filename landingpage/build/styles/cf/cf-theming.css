@@ -146,3 +146,9 @@ main.content .conversational-form cf-list-button:after {
   height: 5px;
   border-radius: 50%;
 }
+
+
+main.content section[role=info] {
+	background-color: #f8f8f8;
+	color: #000;
+}
